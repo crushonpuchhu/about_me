@@ -1,0 +1,218 @@
+{
+  "personalInfo": {
+    "name": "Mittal",
+    "title": "Software Engineer",
+    "role": [
+      "AI Engineer",
+      "Full Stack Developer",
+      "Frontend Developer",
+      "Software Developer"
+    ],
+    "location": {
+      "current": "Bangalore, India",
+      "hometown": "Ranchi, Jharkhand, India"
+    },
+    "phone": "+91 7488453170",
+    "email": "mittalkumargupt@gmail.com",
+    "github": "https://github.com/crushonpuchhu",
+    "portfolio": "",
+    "linkedin": ""
+  },
+
+  "about": {
+    "shortDescription": "Software Engineer passionate about Artificial Intelligence, Machine Learning, Full Stack Development, and building innovative software solutions.",
+    "description": "I am a Software Engineer with knowledge of AI, Machine Learning, Full Stack Web Development, and Mobile App Development. I enjoy building intelligent applications, AI agents, automation systems, and modern web experiences. I have hands-on experience working with Python, PyTorch, React, Next.js, and other modern technologies. I continuously explore new technologies and build practical projects to solve real-world problems.",
+    "interests": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "AI Agents",
+      "LLM Applications",
+      "Web Development",
+      "Mobile App Development",
+      "Automation",
+      "Software Engineering"
+    ]
+  },
+
+  "education": [
+    {
+      "degree": "10th Standard",
+      "school": "",
+      "board": "Jharkhand Academic Council (JAC)",
+      "year": 2017,
+      "location": "Jharkhand, India"
+    },
+    {
+      "degree": "12th Standard",
+      "stream": "PCM (Physics, Chemistry, Mathematics)",
+      "board": "Jharkhand Academic Council (JAC)",
+      "year": 2019,
+      "location": "Jharkhand, India"
+    },
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "college": "Doranda College",
+      "university": "Ranchi University",
+      "year": 2022,
+      "location": "Ranchi, Jharkhand, India"
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Airbook Canvas",
+      "position": "Frontend Developer",
+      "location": "Bangalore, India",
+      "startDate": "2023",
+      "endDate": null,
+      "currentlyWorking": false,
+      "description": "Worked as a Frontend Developer, contributing to frontend development and web application interfaces.",
+      "technologies": [
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ],
+
+  "skills": {
+    "programmingLanguages": [
+      "Python",
+      "JavaScript"
+    ],
+    "artificialIntelligence": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Deep Learning",
+      "AI Agents",
+      "LLM Applications",
+      "AI Automation",
+      "RAG Systems",
+      "Prompt Engineering"
+    ],
+    "machineLearningFrameworks": [
+      "PyTorch",
+      "Model Training",
+      "Model Fine-Tuning"
+    ],
+    "frontendDevelopment": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "backendDevelopment": [
+      "Python",
+      "Node.js",
+      "REST APIs"
+    ],
+    "mobileDevelopment": [
+      "React Native",
+      "Flutter"
+    ],
+    "designTools": [
+      "Figma",
+      "UI/UX Design"
+    ],
+    "otherTechnologies": [
+      "Git",
+      "GitHub",
+      "Docker",
+      "MongoDB",
+      "API Integration"
+    ]
+  },
+
+  "projects": [
+    {
+      "name": "YouTube Automation AI Agent",
+      "category": "Artificial Intelligence",
+      "description": "An AI-powered automation system designed to research technology topics, generate video content, create voiceovers, and automate YouTube video publishing.",
+      "technologies": [
+        "Python",
+        "AI Agents",
+        "LLMs",
+        "Automation"
+      ],
+      "github": "",
+      "liveDemo": ""
+    },
+    {
+      "name": "AI Agent Projects",
+      "category": "Artificial Intelligence",
+      "description": "A collection of AI agent experiments and applications focused on automation, intelligent workflows, and AI-powered task execution.",
+      "technologies": [
+        "Python",
+        "AI",
+        "LLMs",
+        "APIs"
+      ],
+      "github": "",
+      "liveDemo": ""
+    },
+    {
+      "name": "Full Stack Web Applications",
+      "category": "Web Development",
+      "description": "Various full-stack web development projects involving modern frontend frameworks, backend APIs, database integration, and responsive user interfaces.",
+      "technologies": [
+        "React.js",
+        "Next.js",
+        "JavaScript",
+        "Tailwind CSS",
+        "Node.js",
+        "MongoDB"
+      ],
+      "github": "",
+      "liveDemo": ""
+    }
+  ],
+
+  "expertise": [
+    {
+      "title": "Artificial Intelligence",
+      "description": "Building AI-powered applications, intelligent agents, and automation workflows."
+    },
+    {
+      "title": "Machine Learning",
+      "description": "Working with machine learning frameworks, model training, and deep learning."
+    },
+    {
+      "title": "Web Development",
+      "description": "Developing modern, responsive, and scalable web applications."
+    },
+    {
+      "title": "Mobile Development",
+      "description": "Building cross-platform mobile applications using React Native and Flutter."
+    },
+    {
+      "title": "UI/UX Design",
+      "description": "Creating modern user interfaces and designing user experiences using Figma."
+    }
+  ],
+
+  "socialLinks": {
+    "github": "https://github.com/crushonpuchhu",
+    "linkedin": "",
+    "twitter": "",
+    "instagram": ""
+  },
+
+  "availability": {
+    "openToWork": true,
+    "interestedRoles": [
+      "AI Engineer",
+      "Software Engineer",
+      "Full Stack Developer",
+      "Frontend Developer",
+      "Machine Learning Engineer"
+    ],
+    "preferredLocations": [
+      "Bangalore",
+      "Remote",
+      "Ranchi"
+    ]
+  }
+}
